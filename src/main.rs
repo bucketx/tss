@@ -5,7 +5,7 @@ use clap::clap_app;
 
 fn main() {
     let tss = clap_app!(tss =>
-        (version: "0.0.1-dev")
+        (version: "0.0.1")
         (author: "BucketX")
         (about: "Telegram Sticker Scaler")
         (@arg input: -i --input +required +takes_value ... "Set input images")

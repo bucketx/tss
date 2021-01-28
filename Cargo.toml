@@ -1,6 +1,6 @@
 [package]
 name = "tss"
-version = "0.0.1-dev"
+version = "0.0.1"
 authors = ["Leung Yau Ming <leungyauming2005@gmail.com>"]
 edition = "2018"
 
