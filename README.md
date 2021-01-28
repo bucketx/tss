@@ -16,6 +16,7 @@ Requirements:
 Step 1: Clone the source code
 ```base
 git clone https://github.com/bucketx/tss.git
+cd tss
 ```
 
 Step 2: Build
